@@ -6,7 +6,7 @@ var config = {
     phone: '<a href="https://github.com/happysnaker" target="_blank">github.com/happysnaker</a>',
     email: "happysnaker@foxmail.com",
     address: '<a href="https://happysnaker.github.io/" target="_blank">happysnaker.github.io</a>',
-    qq: '<a href="https://happysnaker.github.io/support/" target="_blank">Support my OSS</a>',
+    qq: '<a href="https://happysnaker.github.io/support/" target="_blank">Support via WeChat / Alipay</a>',
     log: "happysnaker",
     excpect_work: "Backend / Infrastructure / Systems Engineering",
 
@@ -70,7 +70,7 @@ var config = {
     icon: [
         ["./svg/github.svg", "https://github.com/happysnaker", "GitHub profile"],
         ["./svg/博客.svg", "https://happysnaker.github.io/", "Technical blog"],
-        ["./svg/github.svg", "https://happysnaker.github.io/support/", "Support my OSS"]
+        ["./svg/github.svg", "https://happysnaker.github.io/support/", "Support via WeChat / Alipay"]
     ],
 
     url: [

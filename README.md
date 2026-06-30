@@ -1,5 +1,8 @@
 # Resume
 
+[![Stars](https://img.shields.io/github/stars/happysnaker/Resume?style=social)](https://github.com/happysnaker/Resume/stargazers)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+
 A clean, responsive **resume / portfolio / personal website template** built with plain **HTML, CSS, and JavaScript**.
 
 - Live demo: [happysnaker.github.io/Resume](https://happysnaker.github.io/Resume/)
@@ -51,6 +54,7 @@ If this template saves you time, consider:
 - giving the repo a star
 - sharing it with others
 - supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+- common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
 
 ## 中文说明
 
