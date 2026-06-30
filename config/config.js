@@ -18,11 +18,11 @@ var config = {
         "Good documentation compounds engineering impact."
     ],
 
-    welcome: "Backend / Systems Engineer<br>Go · Java · Distributed Systems<br>Open-source contributor & technical writer<br>Glad to have you here.",
+    welcome: "Backend / Systems Engineer<br>Go · Java · Distributed Systems<br>Go / Java backend builder<br>Glad to have you here.",
 
     about: "<p>你好，我是 Shirong Lu（happysnaker），专注 Go / Java 后端、分布式系统、RPC、可观测性与工程效率。</p>" +
         "<p>我持续公开构建可复用的工程资产，例如 Go 服务脚手架、后端工程师成长清单、系统学习笔记与技术博客。</p>" +
-        "<p>近期我也在为 GitHub Docs、Docker Docs、OpenTelemetry 等项目提交文档与工程相关贡献，希望把复杂系统讲清楚、把可复用经验沉淀下来。</p>",
+        "<p>近期我也在为 urfave/cli、go-chi/chi、GitHub Docs、Docker Docs、OpenTelemetry 等项目持续提交代码修复与工程相关贡献，把可复用经验沉淀成公开资产。</p>",
 
     skills: [
         ["Go", 90, "#00ADD8"],
@@ -38,7 +38,7 @@ var config = {
         "<li>关注 RPC、超时/重试、幂等、缓存、队列与服务治理。</li>" +
         "<li>重视日志、指标、追踪与线上可观测性。</li>" +
         "<li>具备数据库索引、事务、SQL 调优与存储基础。</li>" +
-        "<li>喜欢把工程经验整理成模板、清单与技术文档。</li>" +
+        "<li>喜欢把工程经验整理成模板、清单与可复用资产。</li>" +
         "</ul>",
 
     portfolio: [
@@ -54,8 +54,8 @@ var config = {
             "<p>Emphasis: clean service structure, operational clarity, and reusable engineering patterns.</p>"
         ],
         ["2026 — Present", "<br>Documentation contributor",
-            "<p><strong>Major OSS docs contributions</strong></p>" +
-            "<p>Actively contribute clarifications and reference improvements to GitHub Docs, Docker Docs, OpenTelemetry Go, Prometheus, chi, and Vue documentation.</p>" +
+            "<p><strong>OSS engineering contributions</strong></p>" +
+            "<p>Actively contribute small but real fixes, behavior clarifications, and developer-experience improvements across urfave/cli, chi, GitHub Docs, Docker Docs, OpenTelemetry Go, Prometheus, and Vue docs.</p>" +
             "<p>Focus on accuracy, developer experience, and making complex systems easier to understand.</p>"
         ]
     ],
