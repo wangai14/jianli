@@ -1,152 +1,82 @@
 var config = {
-    /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "卢本伟",
-    sex: "男",
-    age: "19",
-    phone: "19872222222",
-    email: "happysnaker@foxmail.com this`s true",
-    address: "现居浙江省义乌市",
-    qq: "11",
-    log: "Happysnaker",
-    excpect_work: "Java/Go后端开发",
+    /* Demo profile data for the template. Replace as needed. */
+    name: "Shirong Lu",
+    sex: "Backend / Systems",
+    age: "Shanghai, China",
+    phone: '<a href="https://github.com/happysnaker" target="_blank">github.com/happysnaker</a>',
+    email: "happysnaker@foxmail.com",
+    address: '<a href="https://happysnaker.github.io/" target="_blank">happysnaker.github.io</a>',
+    qq: '<a href="https://happysnaker.github.io/support/" target="_blank">Support my OSS</a>',
+    log: "happysnaker",
+    excpect_work: "Backend / Infrastructure / Systems Engineering",
 
-
-    /*在这里配置首页的座右铭集合*/
     motto: [
-        "明天不一定会更好，但要坚信更好的明天一定会来。",
-        "要做的事情总找得出时间和机会，不愿意做的事情也总能找得出借口。",
-        "Gor For It!",
-        "有智者立长志，无志者长立志。",
-        "那些过去的眼泪终将风干在记忆里。",
-        "真相，是为了剿灭幻想。",
-        "我欲将心向明月，奈何明月照沟渠。",
-        "春风得意马蹄疾，一日看尽长安花。",
-        "天凉好个秋！",
-        "老骥伏枥，志在千里。烈士暮年，壮心不已。",
-        "老当益壮，宁移白首之心。穷且益坚，不坠青云之志。",
-        "我们必须拿我们所有的， 去换我们所没有的",
-        "蒹葭苍苍，白露为霜；所谓伊人，在水一方。",
-        "数风流人物，还看今朝！"
+        "Build useful things, then explain them clearly.",
+        "Reliability is a feature.",
+        "Keep systems simple, observable, and operable.",
+        "Write less magic, ship more signal.",
+        "Good documentation compounds engineering impact."
     ],
 
+    welcome: "Backend / Systems Engineer<br>Go · Java · Distributed Systems<br>Open-source contributor & technical writer<br>Glad to have you here.",
 
-    /*在这里配置首页的见面信息，你可以内嵌HTML标签以调整格式*/
-    welcome: "青青子衿，悠悠我心<br>" +
-             "但为君故，沉吟至今<br>" +
-             "你好，我是卢本伟，南昌大学软件工程大二在读生<br>" +
-             "很高兴见到你!",
+    about: "<p>你好，我是 Shirong Lu（happysnaker），专注 Go / Java 后端、分布式系统、RPC、可观测性与工程效率。</p>" +
+        "<p>我持续公开构建可复用的工程资产，例如 Go 服务脚手架、后端工程师成长清单、系统学习笔记与技术博客。</p>" +
+        "<p>近期我也在为 GitHub Docs、Docker Docs、OpenTelemetry 等项目提交文档与工程相关贡献，希望把复杂系统讲清楚、把可复用经验沉淀下来。</p>",
 
-
-    /*在这里配置关于我的信息，你可以内嵌HTML标签以调整格式*/
-    about: "<p>你好！我叫卢本伟，性别男，南昌大学软件学院大二在读。我期望的工作岗位是Go/Java后端开发。</p>" +
-        "<p>我有着较多的Java编程经验，计算机基础知识掌握扎实，能够在工作中很好的完成自己的任务。此外，我有着充满激情的工作态度，团队协同作战能力强，同时我也具备独立开发的能力，擅于发现并解决问题。我的执行力强、责任感高、集体荣誉感强、敢于担当，能够接受加班或出差等安排</p>" +
-        "<p>十分期待与您的联系!</p>",
-
-
-
-    /** 
-    * 在这里配置你的技能点
-    * ["技能点", 掌握程度, "技能条颜色"]
-    */  
     skills: [
-        ["Java", 80, "red"],
-        ["GoLang", 77, "blue"],
-        ["SQL", 75, "#1abc9c"],
-        ["HTML5", 67, "rgba(0,0,0)"],
-        ["CSS3", 60, "yellow"],
-        ["JavaScript", 70, "pink"]
+        ["Go", 90, "#00ADD8"],
+        ["Java", 88, "#f89820"],
+        ["Distributed Systems", 85, "#7c3aed"],
+        ["SQL / Storage", 88, "#14b8a6"],
+        ["Observability", 80, "#22c55e"],
+        ["Networking / OS", 78, "#f59e0b"]
     ],
 
-
-    /*这里填写你的技能描述，你可以内嵌HTML标签以调整格式*/
     skills_description: "<ul>" +
-        "     <li>操作系统、计算机网络等编程基础知识良好。</li>" +
-        "     <li>熟练掌握Java基础。</li>" +
-        "     <li>熟悉JavaIO、多线程、集合等基础框架。</li>" +
-        "     <li>了解JVM原理。</li>" +
-        "     <li>熟悉Go语言开发基本知识。</li>" +
-        "     <li>熟悉SQL语句编写以及调优。</li>" +
-        "     <li>熟悉基本Linux命令操作。</li>" +
-        "     <li>熟悉Spring、ibatis、struts等框架的使用，了解其原理与机制。</li>" +
-        "     <li>熟悉缓存、消息等机制。</li>" +
-        "     <li>了解分布式系统的设计与应用。</li>" +
-        "     <li>熟悉HTML、CSS、JavaScript以及相应前端知识。</li>" +
-        " </ul>",
+        "<li>Go / Java 后端服务设计与基础工程搭建。</li>" +
+        "<li>关注 RPC、超时/重试、幂等、缓存、队列与服务治理。</li>" +
+        "<li>重视日志、指标、追踪与线上可观测性。</li>" +
+        "<li>具备数据库索引、事务、SQL 调优与存储基础。</li>" +
+        "<li>喜欢把工程经验整理成模板、清单与技术文档。</li>" +
+        "</ul>",
 
-
-    /**
-     * 这里填写你的个人作品展示
-     * ["img"，"url", "ProjectName", "brief"]
-     * img表示您的作品图片链接，url表示您的项目地址，ProjectName表示您的仓库或作品名称，brief是一句简短的介绍
-     * 通过查看实际效果以调整字题长度
-     */
     portfolio: [
-        ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
-        ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "智能人机对战五子棋", "采用C++编写的智能五子棋人机对战<br>2021/7/23"],
-        ["https://pic3.zhimg.com/80/v2-d9766956d5c85c2780e4c5008fd946ca_1440w.jpg", "https://github.com/happysnaker/StudentsManageSystem", "学生管理系统", "C语言+AVL树+多重双向表实现"]
+        ["./images/card-go-service-starter.png", "https://github.com/happysnaker/go-service-starter", "go-service-starter", "Production-minded Go HTTP service starter with health endpoints, structured logging, graceful shutdown, and Docker."],
+        ["./images/card-backend-checklist.png", "https://github.com/happysnaker/backend-engineer-checklist", "backend-engineer-checklist", "Practical roadmap for Go, Java, distributed systems, databases, networking, and observability."],
+        ["./images/card-oss-contrib.png", "https://github.com/github/docs/pulls?q=is%3Apr+author%3Ahappysnaker", "Open-source contributions", "Recent docs and engineering contributions across GitHub Docs, Docker Docs, OpenTelemetry, Prometheus, chi, and Vue docs."]
     ],
 
-
-    /**
-     * 这里填写您的工作经历
-     * ["日期"， "工作"， "介绍"]
-     * 你可以内嵌HTML标签以排版格式
-     */
     work: [
-        //如果您内有工作经历，您可以采取下列写法
-        // ["————————", "", "<p>暂无工作经历，期待您的联系。</p>"]
-
-        ["2020/7/1 — 2021/8/10", "<br>阎王殿实习生",
-            "<p><strong>阎王殿研发部</strong></p>" +
-            "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>" +
-            "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>"
+        ["2026 — Present", "<br>Open-source builder",
+            "<p><strong>Independent engineering work</strong></p>" +
+            "<p>Package practical backend assets and learning material for public reuse, including starters, checklists, notes, and documentation improvements.</p>" +
+            "<p>Emphasis: clean service structure, operational clarity, and reusable engineering patterns.</p>"
         ],
-
-        ["2020/7/1 — 2021/8/10", "<br>阎王殿实习生",
-            "<p><strong>阎王殿研发部</strong></p>" +
-            "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>" +
-            "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>"
+        ["2026 — Present", "<br>Documentation contributor",
+            "<p><strong>Major OSS docs contributions</strong></p>" +
+            "<p>Actively contribute clarifications and reference improvements to GitHub Docs, Docker Docs, OpenTelemetry Go, Prometheus, chi, and Vue documentation.</p>" +
+            "<p>Focus on accuracy, developer experience, and making complex systems easier to understand.</p>"
         ]
     ],
 
-
-    /**
-     * 这里填写你的其他经历
-     * ["日期"， "经历"， "介绍"]
-     * 建议填写您的校级及以上得奖经历或或其他证书
-     */
     others: [
-        ["2021-04-28", "第十二届蓝桥杯大学生A组省三等奖", "大一下学期，我参与第十二届蓝桥杯大学生A组，然比赛一改以往暴力题，半数以上DP，仅取得省级三等奖。"],
-        ["2021-04-24", "第六届团队程序设计天梯赛个人国家三等奖", "大一下学期，我通过面向全年级的选拔，获得入队名额，在个人赛中获得全国三等奖。"],
-        ["2021-04-24", "第六届团队程序设计天梯赛团体国家二等奖", "大一下学期，我通过面向全年级的选拔，获得入队名额，跟随团队取得团体国家二等奖的成绩。"],
-        ["2020-11-14", "2020级南昌大学程序设计正式赛三等奖", "大一上学期，我参与校举办的面向全校程序设计大赛并获得三等奖，"]
+        ["2026-06", "Packaged go-service-starter", "Published a production-minded Go HTTP service starter with docs, Docker support, health endpoints, and graceful shutdown."],
+        ["2026-06", "Published backend-engineer-checklist", "Built a shareable backend growth checklist covering languages, databases, distributed systems, networking, and observability."],
+        ["2026-06", "Ongoing OSS contributions", "Opened pull requests for GitHub Docs, Docker Docs, OpenTelemetry Go, Prometheus, chi, and Vue docs."],
+        ["2026-06", "Technical writing", "Maintain a personal technical site with notes on backend engineering, Java/Go, and systems topics."]
     ],
 
-
-    /**
-     * 在这里填写您的社交网络平台
-     * ["img", "url", "desc"]
-     * img是社交平台的图标，在./svg目录下我们已经准备好了 微博、简书、掘金、小红书、知乎、csdn、facebook、github、力扣、CF和qq的图标
-     * url是您链接
-     * desc是一段描述，将鼠标移入将会显示该描述
-     * 建议您放置数量 <= 5
-     */
     icon: [
-        ["./svg/LeetCode.svg", "https://leetcode-cn.com/u/happysnaker/", "我的力扣主页"],
-        ["./svg/github.svg", "https://github.com/happysnaker", "我的GitHub主页"],
-        ["./svg/博客.svg", "http://1.15.234.109:8000", "我的个人博客"],
-        ["./svg/掘金.svg", "https://juejin.cn/user/3853167638625000", "我的掘金主页"],
-        ["./svg/知乎.svg", "https://www.zhihu.com/people/tian-xia-you-dao-81", "我的知乎主页"]
+        ["./svg/github.svg", "https://github.com/happysnaker", "GitHub profile"],
+        ["./svg/博客.svg", "https://happysnaker.github.io/", "Technical blog"],
+        ["./svg/github.svg", "https://happysnaker.github.io/support/", "Support my OSS"]
     ],
 
-
-    //这是一些图片链接，建议您仅更改第二个头像图片
     url: [
-        //背景图、头像、作品展示背景、其他经历背景
-        "./images/intro-bg.jpg",
-        "./images/2.jpg",
+        "./images/index_background.jpg",
+        "./images/avatar.jpg",
         "./images/work-bk.png",
         "./images/4.jpg"
     ]
-
 }

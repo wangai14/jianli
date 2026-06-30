@@ -50,7 +50,7 @@ If this template saves you time, consider:
 
 - giving the repo a star
 - sharing it with others
-- supporting my open-source work via my GitHub profile: [happysnaker](https://github.com/happysnaker#support-my-open-source-work)
+- supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
 
 ## 中文说明
 
