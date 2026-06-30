@@ -55,6 +55,7 @@ If this template saves you time, consider:
 - sharing it with others
 - supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
 - common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
+- if you want lightweight async feedback on your GitHub profile, README, or resume site, I also offer a small paid review option (`¥99` / `¥199`) on the support page
 
 ## 中文说明
 
