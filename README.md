@@ -48,6 +48,19 @@ Most day-to-day customization happens in `config/config.js`, including:
 
 This repository is a lightweight static template intended to be easy to fork and adapt. Before using it as your public résumé or personal website, review your content, images, external links, and metadata to make sure they match your own profile.
 
+## Want a faster result?
+
+If you are using this repo as part of a job search, the fastest path is usually:
+
+1. fork the template
+2. replace your content
+3. fix your GitHub profile / pinned repos so the site and profile tell the same story
+4. only then polish visual details
+
+If you want compact feedback on the **site + GitHub profile + pinned repos** together, the dedicated review page is here:
+
+- [happysnaker.github.io/review](https://happysnaker.github.io/review/)
+
 ## Support
 
 If this template saves you time, consider:
@@ -57,7 +70,7 @@ If this template saves you time, consider:
 - supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
 - if GitHub shows a **Sponsor** button on this repo, it routes to the same support page
 - common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
-- if you want lightweight async feedback on your GitHub profile, README, or resume site, I also offer a small paid review option (`¥99` / `¥199`) on the support page
+- if you want lightweight async feedback on your GitHub profile, README, or resume site, I also offer a small paid review option (`¥99` / `¥199`) on the review page: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
 
 Typical support fit for this repo:
 
