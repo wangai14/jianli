@@ -57,6 +57,12 @@ If this template saves you time, consider:
 - common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
 - if you want lightweight async feedback on your GitHub profile, README, or resume site, I also offer a small paid review option (`¥99` / `¥199`) on the support page
 
+Typical support fit for this repo:
+
+- **¥9.9** — if this template saved you one setup detour
+- **¥19.9** — if it helped you publish your personal site or resume faster
+- **¥99** — if you want compact async feedback on your GitHub profile, pinned repos, README, or resume / portfolio page
+
 ## 中文说明
 
 这是一个基于 **HTML / CSS / JavaScript** 的静态个人简历与作品集模板，适合作为个人主页、求职简历页或开发者介绍页使用。
