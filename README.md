@@ -64,6 +64,14 @@ Typical support fit for this repo:
 - **¥19.9** — if it helped you publish your personal site or resume faster
 - **¥99** — if you want compact async feedback on your GitHub profile, pinned repos, README, or resume / portfolio page
 
+## Related repos
+
+If you are polishing your public technical profile, these may also help:
+
+- **[github-profile-checklist](https://github.com/happysnaker/github-profile-checklist)** — practical checklist for making a GitHub profile feel more intentional and technical
+- **[production-readiness-checklist](https://github.com/happysnaker/production-readiness-checklist)** — useful if you want one public repo to read more like production-minded engineering work
+- **[backend-engineer-checklist](https://github.com/happysnaker/backend-engineer-checklist)** — broader backend roadmap for interview prep and skills positioning
+
 ## 中文说明
 
 这是一个基于 **HTML / CSS / JavaScript** 的静态个人简历与作品集模板，适合作为个人主页、求职简历页或开发者介绍页使用。
