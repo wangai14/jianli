@@ -8,6 +8,7 @@ A clean, responsive **resume / portfolio / personal website template** built wit
 - Live demo: [happysnaker.github.io/Resume](https://happysnaker.github.io/Resume/)
 - Suitable for: personal homepage, portfolio, résumé, developer landing page
 - Deployment: works as a fully static site on GitHub Pages or any static hosting platform
+- Reuse: click **Use this template** on GitHub to generate your own copy faster
 
 ## Features
 
@@ -68,3 +69,9 @@ Typical support fit for this repo:
 这是一个基于 **HTML / CSS / JavaScript** 的静态个人简历与作品集模板，适合作为个人主页、求职简历页或开发者介绍页使用。
 
 你主要只需要修改 `config/config.js`，就可以快速替换为你自己的信息并部署到 GitHub Pages 等静态托管平台。
+
+## License
+
+This template is released under the **MIT License**.
+
+Bundled third-party frontend libraries and assets keep their own original licenses. See [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) for a concise inventory.
