@@ -82,6 +82,8 @@ Typical support fit for this repo:
 
 - **¥9.9** — if this template saved you one setup detour
 - **¥19.9** — if it helped you publish your personal site or resume faster
+- **best payment note** — `Resume`
+- **fastest path** — tip directly if the template saved you time; use **¥29.9** / **¥99** only if you also want feedback back
 - **¥99** — if you want compact async feedback on your GitHub profile, pinned repos, README, or resume / portfolio page
 
 ## Related repos
