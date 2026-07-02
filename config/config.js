@@ -6,7 +6,7 @@ var config = {
     phone: '<a href="https://github.com/happysnaker" target="_blank">github.com/happysnaker</a>',
     email: "happysnaker@foxmail.com",
     address: '<a href="https://happysnaker.github.io/" target="_blank">happysnaker.github.io</a>',
-    qq: '<a href="https://happysnaker.github.io/support/" target="_blank">Support via WeChat / Alipay</a>',
+    qq: '<a href="https://happysnaker.github.io/review/" target="_blank">Quick review (¥29.9 / ¥99)</a> · <a href="https://happysnaker.github.io/support/" target="_blank">Tip via WeChat / Alipay</a>',
     log: "happysnaker",
     excpect_work: "Backend / Infrastructure / Systems Engineering",
 
