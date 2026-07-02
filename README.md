@@ -1,6 +1,7 @@
 # Resume
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/Resume?style=social)](https://github.com/happysnaker/Resume/stargazers)
+[![Use this template](https://img.shields.io/badge/use%20this-template-62d2a2)](https://github.com/happysnaker/Resume/generate)
 [![Project Page](https://img.shields.io/badge/project-page-7aa2ff)](https://happysnaker.github.io/Resume/)
 [![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-resume)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
