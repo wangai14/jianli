@@ -66,6 +66,8 @@ If you want compact feedback on the **site + GitHub profile + pinned repos** tog
 - deeper pass: **¥99** for GitHub profile packaging, pinned repo cleanup, and one README / landing-page pass
 - current offer: **first paid request in July gets one extra public page / README in the same pass**
 - preview first: redacted sample audit in [github-profile-checklist](https://github.com/happysnaker/github-profile-checklist/blob/main/docs/redacted-audit-sample.md)
+- one-click start for the **¥29.9** path: [email quick-read template](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20resume%20site%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20resume%20site%20/%20profile%20/%20README%0APayment%20screenshot%3A%20attached)
+- one-click start for the **¥99** path: [email async-review template](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20resume%20site%20or%20profile%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%20resume%20site%20/%20profile%20/%20README%0APayment%20screenshot%3A%20attached)
 
 ## Support
 
