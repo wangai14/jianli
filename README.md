@@ -2,6 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/Resume?style=social)](https://github.com/happysnaker/Resume/stargazers)
 [![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 A clean, responsive **resume / portfolio / personal website template** built with plain **HTML, CSS, and JavaScript**.
 
@@ -60,6 +61,9 @@ If you are using this repo as part of a job search, the fastest path is usually:
 If you want compact feedback on the **site + GitHub profile + pinned repos** together, the dedicated review page is here:
 
 - [happysnaker.github.io/review](https://happysnaker.github.io/review/)
+- fastest paid feedback: **¥29.9** quick blunt first-impression read for one public profile / repo / page
+- deeper pass: **¥99** for GitHub profile packaging, pinned repo cleanup, and one README / landing-page pass
+- preview first: redacted sample audit in [github-profile-checklist](https://github.com/happysnaker/github-profile-checklist/blob/main/docs/redacted-audit-sample.md)
 
 ## Support
 
