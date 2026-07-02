@@ -75,7 +75,7 @@ If this template saves you time, consider:
 - supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-resume)
 - if GitHub shows a **Sponsor** button on this repo, it routes to the same support page
 - common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
-- if you want lightweight async feedback on your GitHub profile, README, or resume site, I also offer a small paid review option (`¥99` / `¥199`) on the review page: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
+- if you want lightweight async feedback on your GitHub profile, README, or resume site, the current paid options are **¥29.9** for a quick blunt read, **¥99** for one async pass, and **¥199** for the profile + README + landing-page bundle on the review page: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
 - if you want the best value, the **first paid request in July** gets an extra public page / README in the same pass
 
 Typical support fit for this repo:
@@ -84,7 +84,9 @@ Typical support fit for this repo:
 - **¥19.9** — if it helped you publish your personal site or resume faster
 - **best payment note** — `Resume`
 - **fastest path** — tip directly if the template saved you time; use **¥29.9** / **¥99** only if you also want feedback back
+- **¥29.9** — if you want one blunt first-impression paragraph + top 3 fixes for one public profile / repo / page
 - **¥99** — if you want compact async feedback on your GitHub profile, pinned repos, README, or resume / portfolio page
+- **¥199** — if you want the profile + one README + one landing-page bundle
 
 ## Related repos
 
