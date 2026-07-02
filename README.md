@@ -1,7 +1,7 @@
 # Resume
 
 [![Stars](https://img.shields.io/github/stars/happysnaker/Resume?style=social)](https://github.com/happysnaker/Resume/stargazers)
-[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/)
+[![Support](https://img.shields.io/badge/support-WeChat%20%26%20Alipay-7aa2ff)](https://happysnaker.github.io/support/#from-resume)
 [![Async Review](https://img.shields.io/badge/review-Quick%20read%20%2F%20async-9b87f5)](https://happysnaker.github.io/review/)
 
 A clean, responsive **resume / portfolio / personal website template** built with plain **HTML, CSS, and JavaScript**.
@@ -72,7 +72,7 @@ If this template saves you time, consider:
 
 - giving the repo a star
 - sharing it with others
-- supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/)
+- supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-resume)
 - if GitHub shows a **Sponsor** button on this repo, it routes to the same support page
 - common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
 - if you want lightweight async feedback on your GitHub profile, README, or resume site, I also offer a small paid review option (`¥99` / `¥199`) on the review page: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
