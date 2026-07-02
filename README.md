@@ -9,6 +9,7 @@
 A clean, responsive **resume / portfolio / personal website template** built with plain **HTML, CSS, and JavaScript**.
 
 - Live demo: [happysnaker.github.io/Resume](https://happysnaker.github.io/Resume/)
+- Support discussion: [If Resume helped you publish faster, here is the shortest support path](https://github.com/happysnaker/Resume/discussions/1)
 - Suitable for: personal homepage, portfolio, résumé, developer landing page
 - Deployment: works as a fully static site on GitHub Pages or any static hosting platform
 - Reuse: click **Use this template** on GitHub to generate your own copy faster
