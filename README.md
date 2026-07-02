@@ -60,11 +60,13 @@ If you are using this repo as part of a job search, the fastest path is usually:
 3. fix your GitHub profile / pinned repos so the site and profile tell the same story
 4. only then polish visual details
 
+The most common failure mode is **not** weak CSS — it is that the page still feels student-ish, generic, or disconnected from the GitHub profile behind it.
+
 If you want compact feedback on the **site + GitHub profile + pinned repos** together, the dedicated review page is here:
 
 - [happysnaker.github.io/review](https://happysnaker.github.io/review/)
-- fastest paid feedback: **¥29.9** quick blunt first-impression read for one public profile / repo / page
-- deeper pass: **¥99** for GitHub profile packaging, pinned repo cleanup, and one README / landing-page pass
+- fastest paid feedback: **¥29.9** quick blunt first-impression read for one public profile / repo / page — best when your site technically works but still does not look hireable enough
+- deeper pass: **¥99** for GitHub profile packaging, pinned repo cleanup, and one README / landing-page pass — best when you want the site and GitHub to stop fighting each other
 - current offer: **first paid request in July gets one extra public page / README in the same pass**
 - preview first: redacted sample audit in [github-profile-checklist](https://github.com/happysnaker/github-profile-checklist/blob/main/docs/redacted-audit-sample.md)
 - one-click start for the **¥29.9** path: [email quick-read template](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20resume%20site%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20resume%20site%20/%20profile%20/%20README%0APayment%20screenshot%3A%20attached)
