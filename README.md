@@ -63,6 +63,7 @@ If you want compact feedback on the **site + GitHub profile + pinned repos** tog
 - [happysnaker.github.io/review](https://happysnaker.github.io/review/)
 - fastest paid feedback: **¥29.9** quick blunt first-impression read for one public profile / repo / page
 - deeper pass: **¥99** for GitHub profile packaging, pinned repo cleanup, and one README / landing-page pass
+- current offer: **first paid request in July gets one extra public page / README in the same pass**
 - preview first: redacted sample audit in [github-profile-checklist](https://github.com/happysnaker/github-profile-checklist/blob/main/docs/redacted-audit-sample.md)
 
 ## Support
@@ -75,6 +76,7 @@ If this template saves you time, consider:
 - if GitHub shows a **Sponsor** button on this repo, it routes to the same support page
 - common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
 - if you want lightweight async feedback on your GitHub profile, README, or resume site, I also offer a small paid review option (`¥99` / `¥199`) on the review page: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
+- if you want the best value, the **first paid request in July** gets an extra public page / README in the same pass
 
 Typical support fit for this repo:
 
