@@ -4,6 +4,7 @@ If **Resume** helped you publish a stronger résumé / portfolio site faster, th
 
 - Review page: https://happysnaker.github.io/review/
 - Direct support page: https://happysnaker.github.io/support/#from-resume
+- Maintainer routing note: https://github.com/happysnaker/Resume/discussions/5
 - Latest maintainer note for this repo: https://github.com/happysnaker/Resume/discussions/4
 - GitHub Sponsor button (if shown): routes to the same review / support flow
 - WeChat Pay / Alipay QR codes are listed on the support page

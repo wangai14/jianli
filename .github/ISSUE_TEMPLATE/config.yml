@@ -6,6 +6,9 @@ contact_links:
   - name: ¥29.9 quick read / ¥99 async review
     url: https://happysnaker.github.io/review/
     about: Best fit if your own portfolio site works but still feels generic, student-ish, or disconnected from your GitHub.
+  - name: What to see next from Resume
+    url: https://github.com/happysnaker/Resume/discussions/5
+    about: Maintainer note pointing to flagship repos, profile proof, and the shortest next clicks.
   - name: Resume support discussion
     url: https://github.com/happysnaker/Resume/discussions/4
     about: See the latest shortest support path and maintainer note for this repo.
