@@ -9,6 +9,8 @@
 A clean, responsive **resume / portfolio / personal website template** built with plain **HTML, CSS, and JavaScript**.
 
 - Live demo: [happysnaker.github.io/Resume](https://happysnaker.github.io/Resume/)
+- Maintainer profile: [github.com/happysnaker/happysnaker](https://github.com/happysnaker/happysnaker)
+- Maintainer flagship repo: [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)
 - Latest support note: [If Resume helped you land a cleaner portfolio faster: shortest support path](https://github.com/happysnaker/Resume/discussions/4)
 - Support discussion: [If Resume helped you publish faster, here is the shortest support path](https://github.com/happysnaker/Resume/discussions/1)
 - FAQ: [When should you tip directly, and when is the ¥29.9 / ¥99 path actually worth it?](https://github.com/happysnaker/Resume/discussions/2)
