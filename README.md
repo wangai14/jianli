@@ -9,6 +9,7 @@
 A clean, responsive **resume / portfolio / personal website template** built with plain **HTML, CSS, and JavaScript**.
 
 - Live demo: [happysnaker.github.io/Resume](https://happysnaker.github.io/Resume/)
+- Latest support note: [If Resume helped you land a cleaner portfolio faster: shortest support path](https://github.com/happysnaker/Resume/discussions/4)
 - Support discussion: [If Resume helped you publish faster, here is the shortest support path](https://github.com/happysnaker/Resume/discussions/1)
 - FAQ: [When should you tip directly, and when is the ¥29.9 / ¥99 path actually worth it?](https://github.com/happysnaker/Resume/discussions/2)
 - Case note: [Why a clean portfolio still feels template-y even after you replace the text](https://github.com/happysnaker/Resume/discussions/3)
@@ -92,6 +93,7 @@ Typical support fit for this repo:
 - **¥9.9** — if this template saved you one setup detour
 - **¥19.9** — if it helped you publish your personal site or resume faster
 - **best payment note** — `Resume`
+- **latest shortest path** — see [Resume discussion #4](https://github.com/happysnaker/Resume/discussions/4) if you want the bluntest “tip now vs buy ¥29.9 vs buy ¥99” split first
 - **fastest path** — tip directly if the template saved you time; use **¥29.9** / **¥99** only if you also want feedback back
 - **¥29.9** — if you want one blunt first-impression paragraph + top 3 fixes for one public profile / repo / page
 - **¥99** — if you want compact async feedback on your GitHub profile, pinned repos, README, or resume / portfolio page
