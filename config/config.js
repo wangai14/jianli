@@ -6,7 +6,7 @@ var config = {
     phone: '<a href="https://github.com/happysnaker" target="_blank">github.com/happysnaker</a>',
     email: "happysnaker@foxmail.com",
     address: '<a href="https://happysnaker.github.io/" target="_blank">happysnaker.github.io</a>',
-    qq: '<a href="https://happysnaker.github.io/review/" target="_blank">Quick review (¥29.9 / ¥99)</a> · <a href="https://happysnaker.github.io/support/#from-resume" target="_blank">Tip via WeChat / Alipay</a>',
+    qq: '<strong>Template saved you time?</strong> <a href="https://happysnaker.github.io/support/#from-resume" target="_blank">Tip ¥9.9 / ¥19.9 via WeChat / Alipay</a><br><strong>Portfolio still feels generic / student-ish?</strong> <a href="https://happysnaker.github.io/review/" target="_blank">Book a ¥29.9 quick read / ¥99 async review</a>',
     log: "happysnaker",
     excpect_work: "Backend / Infrastructure / Systems Engineering",
 
@@ -70,7 +70,7 @@ var config = {
     icon: [
         ["./svg/github.svg", "https://github.com/happysnaker", "GitHub profile"],
         ["./svg/博客.svg", "https://happysnaker.github.io/", "Technical blog"],
-        ["./svg/github.svg", "https://happysnaker.github.io/support/", "Support via WeChat / Alipay"]
+        ["./svg/github.svg", "https://happysnaker.github.io/support/#from-resume", "Support via WeChat / Alipay"]
     ],
 
     url: [
