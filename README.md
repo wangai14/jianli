@@ -86,6 +86,7 @@ If this template saves you time, consider:
 - giving the repo a star
 - sharing it with others
 - supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-resume)
+- current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
 - if GitHub shows a **Sponsor** button on this repo, it routes to the same support page
 - common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
 - if you want lightweight async feedback on your GitHub profile, README, or resume site, the current paid options are **¥29.9** for a quick blunt read, **¥99** for one async pass, and **¥199** for the profile + README + landing-page bundle on the review page: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
