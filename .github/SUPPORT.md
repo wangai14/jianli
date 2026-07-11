@@ -4,7 +4,11 @@ If **Resume** helped you publish a stronger résumé / portfolio site faster, th
 
 - Review page: https://happysnaker.github.io/review/
 - Direct support page: https://happysnaker.github.io/support/#from-resume
+- Proof before payment: https://happysnaker.github.io/support/#proof-before-payment
+- 10-second support router: https://happysnaker.github.io/support/#sponsor-router
 - Cross-project sponsor one-pager: https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager
+- Sponsor / paid-support intake replies: https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies
+- Deploy-read sample before paying: https://happysnaker.github.io/review/deploy-read-sample/
 - Maintainer routing note: https://github.com/happysnaker/Resume/discussions/5
 - Latest maintainer note for this repo: https://github.com/happysnaker/Resume/discussions/4
 - GitHub Sponsor button (if shown): routes to the same review / support flow
@@ -12,3 +16,5 @@ If **Resume** helped you publish a stronger résumé / portfolio site faster, th
 - Async review is a good fit if you want feedback on your résumé site, GitHub profile, pinned repos, or README
 - Best payment note: `Resume`
 - Best paid fit: your site already works, but still feels generic, student-ish, or disconnected from the GitHub profile behind it
+
+Do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues. Keep paid-review intake on public resume site / GitHub profile / README links unless you move details to private email.

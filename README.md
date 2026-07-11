@@ -10,6 +10,8 @@ A clean, responsive **resume / portfolio / personal website template** built wit
 
 - Live demo: [happysnaker.github.io/Resume](https://happysnaker.github.io/Resume/)
 - Maintainer profile: [github.com/happysnaker/happysnaker](https://github.com/happysnaker/happysnaker)
+- Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
+- 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
 - Maintainer flagship repo: [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)
 - Maintainer routing note: [If you found me from Resume: fastest path to stronger repos, profile proof, and support](https://github.com/happysnaker/Resume/discussions/5)
 - Latest support note: [If Resume helped you land a cleaner portfolio faster: shortest support path](https://github.com/happysnaker/Resume/discussions/4)
@@ -78,6 +80,7 @@ If you want compact feedback on the **site + GitHub profile + pinned repos** tog
 - preview first: redacted sample audit in [github-profile-checklist](https://github.com/happysnaker/github-profile-checklist/blob/main/docs/redacted-audit-sample.md)
 - one-click start for the **¥29.9** path: [email quick-read template](mailto:happysnaker@foxmail.com?subject=Quick%20read%20%7C%20resume%20site%20link&body=Public%20link%3A%0ATarget%20role%20(optional)%3A%0AWhat%20feels%20weak%3A%20resume%20site%20/%20profile%20/%20README%0APayment%20screenshot%3A%20attached)
 - one-click start for the **¥99** path: [email async-review template](mailto:happysnaker@foxmail.com?subject=Async%20review%20%7C%20resume%20site%20or%20profile%20link&body=Public%20link(s)%3A%0ATarget%20role%20or%20use%20case%3A%0AWhat%20feels%20weak%3A%20resume%20site%20/%20profile%20/%20README%0APayment%20screenshot%3A%20attached)
+- public issue privacy guardrail: do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues; use the intake replies first.
 
 ## Support
 
@@ -87,6 +90,8 @@ If this template saves you time, consider:
 - sharing it with others
 - supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-resume)
 - current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
+- sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies)
+- deploy-read sample before paying: [happysnaker.github.io/review/deploy-read-sample](https://happysnaker.github.io/review/deploy-read-sample/)
 - if GitHub shows a **Sponsor** button on this repo, it routes to the same support page
 - common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
 - if you want lightweight async feedback on your GitHub profile, README, or resume site, the current paid options are **¥29.9** for a quick blunt read, **¥99** for one async pass, and **¥199** for the profile + README + landing-page bundle on the review page: [happysnaker.github.io/review](https://happysnaker.github.io/review/)
