@@ -12,6 +12,7 @@ A clean, responsive **resume / portfolio / personal website template** built wit
 - Maintainer profile: [github.com/happysnaker/happysnaker](https://github.com/happysnaker/happysnaker)
 - Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
 - 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
+- Sponsor prospect pipeline: [docs/sponsor-prospect-pipeline.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) — route profile/README customers to the right proof, CTA, support note, and guardrail before paying or asking for review
 - Maintainer flagship repo: [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)
 - Maintainer routing note: [If you found me from Resume: fastest path to stronger repos, profile proof, and support](https://github.com/happysnaker/Resume/discussions/5)
 - Latest support note: [If Resume helped you land a cleaner portfolio faster: shortest support path](https://github.com/happysnaker/Resume/discussions/4)
