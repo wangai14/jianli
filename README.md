@@ -13,6 +13,7 @@ A clean, responsive **resume / portfolio / personal website template** built wit
 - Proof before payment: [support/#proof-before-payment](https://happysnaker.github.io/support/#proof-before-payment)
 - 10-second support router: [support/#sponsor-router](https://happysnaker.github.io/support/#sponsor-router)
 - Sponsor prospect pipeline: [docs/sponsor-prospect-pipeline.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) — route profile/README customers to the right proof, CTA, support note, and guardrail before paying or asking for review
+- Sponsor conversion scorecard: [docs/sponsor-conversion-scorecard.md](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) — classify Hot / Warm / Nurture / No-send before turning profile feedback into a support ask
 - Maintainer flagship repo: [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)
 - Maintainer routing note: [If you found me from Resume: fastest path to stronger repos, profile proof, and support](https://github.com/happysnaker/Resume/discussions/5)
 - Latest support note: [If Resume helped you land a cleaner portfolio faster: shortest support path](https://github.com/happysnaker/Resume/discussions/4)
@@ -92,6 +93,7 @@ If this template saves you time, consider:
 - supporting my open-source work via the support page: [happysnaker.github.io/support](https://happysnaker.github.io/support/#from-resume)
 - current cross-project sponsor brief: [Sponsor one-pager](https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager)
 - sponsor / paid-support intake replies: [share-kit intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies)
+- sponsor conversion scorecard: [Hot / Warm / Nurture / No-send](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) before asking for support or paid review
 - deploy-read sample before paying: [happysnaker.github.io/review/deploy-read-sample](https://happysnaker.github.io/review/deploy-read-sample/)
 - if GitHub shows a **Sponsor** button on this repo, it routes to the same support page
 - common support amounts: `¥9.9` / `¥19.9` / `¥49.9`
